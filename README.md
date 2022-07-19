@@ -1,5 +1,5 @@
 # install ros in ubuntu
 
-# Installation
+## Installation
 
-# Configure your Ubuntu repositories
+### Configure your Ubuntu repositories
